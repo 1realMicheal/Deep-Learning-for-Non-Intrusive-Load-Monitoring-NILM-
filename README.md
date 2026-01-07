@@ -88,3 +88,4 @@ Performance is assessed through visual comparison of ground truth power traces v
 ---
 
 **Author Note:** This research contributes to the development of "Smart Home" systems capable of providing itemized electricity bills without the need for expensive per-plug sub-meters.
+**Author:** Micheal Boadi
